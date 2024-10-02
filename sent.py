@@ -91,4 +91,4 @@ with col2:
 
 st.write('Downloadable Table of sentiment score for each day!')
 st.write(avg_sent)
-st.write('This are the kinds of NLP data that can be incoporated into machine learning models.')
+st.write('This is the kind of NLP data that can be incoporated into machine learning models.')
