@@ -1,6 +1,7 @@
-streamlit 
-yfinance
+streamlit == 1.37.1
+yfinance == 0.2.43
 pandas  == 1.5.3
-plotly
-gdeltdoc
+plotly == 5.23.0
+gdeltdoc == 1.5.0
 vaderSentiment
+
